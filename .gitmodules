@@ -1,0 +1,3 @@
+[submodule "learnjs-tasks"]
+	path = learnjs-tasks
+	url = https://github.com/HVetal/learnjs-tasks.git
